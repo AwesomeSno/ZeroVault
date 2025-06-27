@@ -37,6 +37,8 @@ ZeroVault/
 └── venv/              # Python virtual environment (optional)
 
 
+```
+
 ---
 
 ## 🧪 Installation & Usage
